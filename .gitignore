@@ -1,0 +1,20 @@
+# ignore .csv files
+# ignore folders called data
+
+**/data/*.csv
+**/data/
+
+# python gitignore typical files
+
+**/*.py[cod]
+**/__pycache__
+*.py[cod]
+__pycache__/
+*.egg-info
+
+# jupyter files
+
+.ipynb_checkpoints
+
+# zip files
+**/*.zip
