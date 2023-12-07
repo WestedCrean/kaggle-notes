@@ -1,0 +1,15 @@
+{
+  "id": "westedcrean/s3e26-initial-submission",
+  "title": "🔍 S3E26 Variable analysis and initial submission",
+  "code_file": "eda-initial-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
